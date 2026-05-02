@@ -1,4 +1,4 @@
-## Generar archivos con ANTLR4
+## Generar archivos con ANTLR4 - AUTOMATAS II
 
 Desde la carpeta raíz `semi_compilador/`:
 
